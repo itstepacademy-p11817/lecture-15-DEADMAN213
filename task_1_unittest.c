@@ -39,6 +39,6 @@ TEST_LIST = {
         { "sum_large",      test_sum_large },
         { "counter_simple", test_counter_simple },
         { "counter_range",  test_counter_range },
-//        { "counter_large",  test_counter_large }, // Uncomment in if you’re brave!
+        { "counter_large",  test_counter_large }, // Uncomment in if you’re brave!
         { 0 }
 };
